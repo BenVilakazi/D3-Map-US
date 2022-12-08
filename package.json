@@ -1,0 +1,14 @@
+{
+  "name": "@mbostock/u-s-voronoi-map-o-matic",
+  "main": "80d8a00cd65f58c0@138.js",
+  "version": "138.0.0",
+  "homepage": "https://observablehq.com/@mbostock/u-s-voronoi-map-o-matic",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
